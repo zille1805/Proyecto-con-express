@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Galletas Dulces",
+    "descripcion": "234-s",
+    "stock": 2347,
+    "precio": 345,
+    "cod": 1
+  },
+  {
+    "nombre": "Aceite de Oliva",
+    "descripcion": "234-s",
+    "stock": 2347,
+    "precio": 645,
+    "cod": 2
+  },
+  {
+    "nombre": "Yerba Mate",
+    "descripcion": "234-s",
+    "stock": 27,
+    "precio": 235,
+    "cod": 3
+  },
+  {
+    "nombre": "Off Family",
+    "descripcion": "234-s",
+    "stock": 2997,
+    "precio": 945,
+    "cod": 4
+  }
+]
